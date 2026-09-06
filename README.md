@@ -16,15 +16,6 @@ I also have an interest in **Cloud Computing** and **Game Development**, includi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilangWP&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangWP&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
