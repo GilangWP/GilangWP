@@ -1,6 +1,6 @@
 # Hi, I'm Gilang Widyaputra 👋
 
-I'm a **Fresh Graduate in Informatics Engineering** with a focus on **Frontend Web Development**. I enjoy building web applications based on system requirements and exploring how modern technologies can be used to create functional and responsive user experiences.
+I'm a **Fresh Graduate in Informatics Engineering** with a focus on **Fullstack Web Development**. I enjoy building web applications based on system requirements and exploring how modern technologies can be used to create functional and responsive user experiences.
 
 I also have an interest in **Cloud Computing** and **Game Development**, including **AR/VR**. Currently, I'm expanding my knowledge of **Astro** alongside **Amazon Web Services (AWS)** through the **AWS Re/Start** program.
 
